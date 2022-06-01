@@ -1,0 +1,10 @@
+Programming
+giving computer instructions and rules 
+
+1formulate the problem
+2brekdown the problem into instruction and rules
+3convert the instruction into code
+
+computers need rules to be percise computer rules depend on  conditions computes use word like if and hen to guide there behaviour  if the conditios isn't met it is called else and elseif rule make programs more inteligent 
+computers can reapeat things and that  can be looped conditions still apply loop reapeat things as often  as we want.
+#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#
